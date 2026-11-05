@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /app/
+Disallow: /bureau/
+
+Sitemap: https://aegb.fr/sitemap.xml
