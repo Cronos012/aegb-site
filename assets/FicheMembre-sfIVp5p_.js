@@ -1,0 +1,1 @@
+import{g as e,r as t}from"./loader-circle-B1rd45Qi.js";import{rt as n}from"./index-Ga1ZcnXQ.js";import r,{t as i}from"./Membres-Ddk5I6Ng.js";var a=t();function o(){let{id:t}=e();return n()?(0,a.jsx)(r,{openId:t}):(0,a.jsx)(i,{id:t})}export{o as default};
